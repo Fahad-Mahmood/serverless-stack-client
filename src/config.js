@@ -1,6 +1,6 @@
 export default {
   s3: {
-    REGION: "us-west-2,
+    REGION: "us-west-2",
     BUCKET: "notes-app-f"
   },
   apiGateway: {
